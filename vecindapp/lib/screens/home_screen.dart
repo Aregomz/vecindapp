@@ -90,7 +90,7 @@ class HomeScreen extends StatelessWidget {
 
           // Contenido debajo del AppBar
           Padding(
-            padding: EdgeInsets.only(top: 120, left: 16, right: 16),
+            padding: EdgeInsets.only(top: 100, left: 16, right: 16),
             child: Column(
               crossAxisAlignment: CrossAxisAlignment.start,
               children: [
@@ -137,7 +137,7 @@ class HomeScreen extends StatelessWidget {
       floatingActionButton: FloatingActionButton(
         onPressed: () => showRegisterModal(context),
         backgroundColor: Color(0xFF003C8F),
-        child: Icon(Icons.add),
+        child: Icon(Icons.add, color: Colors.white),
       ),
     );
   }
