@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "1079683681046",
+    "project_id": "residentes-4d764",
+    "storage_bucket": "residentes-4d764.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1079683681046:android:ae3514c298fb0205a85e37",
+        "android_client_info": {
+          "package_name": "com.example.vecindapp_residente"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA9l5M3UHrw2A-zIzHjYF26vK1kRl8kkl8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1079683681046:android:8efa1b7eb4359f7ca85e37",
+        "android_client_info": {
+          "package_name": "com.vecindappguards"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA9l5M3UHrw2A-zIzHjYF26vK1kRl8kkl8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
